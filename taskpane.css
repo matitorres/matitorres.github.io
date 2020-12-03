@@ -80,5 +80,6 @@ b {
 }
 
 .success-header {
+    margin-top: 2rem;
     font-weight: lighter;
 }
