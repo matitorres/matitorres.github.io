@@ -9,8 +9,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Guardar archivos adjuntos"/>
   <Description DefaultValue="Complemento para guardar archivos adjuntos en Sharepoint."/>
-  <IconUrl DefaultValue="https://www.contoso.com/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://www.contoso.com/assets/icon-80.png"/>
+  <IconUrl DefaultValue="https://matitorres.github.io/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://matitorres.github.io/assets/icon-80.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
@@ -26,7 +26,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://www.contoso.com/taskpane.html"/>
+        <SourceLocation DefaultValue="https://matitorres.github.io/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -73,13 +73,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://www.contoso.com/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://www.contoso.com/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://www.contoso.com/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://matitorres.github.io/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://matitorres.github.io/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://matitorres.github.io/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://www.contoso.com/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://www.contoso.com/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://matitorres.github.io/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://matitorres.github.io/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Guardar archivos adjuntos"/>
