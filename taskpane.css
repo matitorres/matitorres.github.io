@@ -79,7 +79,8 @@ b {
     font-weight: bold;
 }
 
-.success-header {
-    margin-top: 2rem;
-    font-weight: lighter;
+.btnText {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
